@@ -48,6 +48,7 @@ brew harfbuzz
 brew heroku
 brew highway
 brew icu4c@77
+brew icu4c@78
 brew imath
 brew jpeg
 brew jpeg-turbo
@@ -64,6 +65,7 @@ brew libbluray
 brew libdeflate
 brew libevent
 brew libgit2
+brew libiconv
 brew libidn2
 brew liblinear
 brew libmicrohttpd
@@ -101,6 +103,7 @@ brew lz4
 brew lzo
 brew mas
 brew mbedtls
+brew mbedtls@3
 brew mpdecimal
 brew mpg123
 brew ncurses
@@ -147,6 +150,7 @@ brew theora
 brew tig
 brew tree
 brew tree-sitter
+brew tree-sitter@0.25
 brew unbound
 brew uv
 brew volta
@@ -223,15 +227,15 @@ tap supabase/tap
 # App Store applications
 appstore 937984704 Amphetamine (5.3.2)
 appstore 640199958 Developer (10.8.3)
-appstore 682658836 GarageBand (10.4.12)
+appstore 682658836 GarageBand (10.4.13)
 appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
 appstore 405399194 Kindle (1.40.3)
-appstore 462062816 Microsoft PowerPoint (16.103.4)
 appstore 462058435 Microsoft Excel (16.103.4)
+appstore 462062816 Microsoft PowerPoint (16.104.1)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
 appstore 6469021132 PDFgear (2.20)
 appstore 844918735 PicGIF Lite (2.0.9)
-appstore 803453959 Slack (4.47.65)
+appstore 803453959 Slack (4.47.72)
 appstore 497799835 Xcode (26.2)
